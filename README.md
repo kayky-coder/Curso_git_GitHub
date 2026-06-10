@@ -2,6 +2,8 @@
 
 ### 1. git config —global -e
 
+versão 1.0
+
 Esse comando vai abrir uma tela semelhante com a imagem a baixo, preencha com seu e-mail do GitHub e o nome que você preferir:
 
 ![Configuração git config](config.png)
