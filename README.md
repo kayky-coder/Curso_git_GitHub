@@ -2,6 +2,8 @@
 
 ### 1. git config —global -e
 
+versão 1.0
+
 Esse comando vai abrir uma tela semelhante com a imagem a baixo, preencha com seu e-mail do GitHub e o nome que você preferir:
 
 ![Configuração git config](config.png)
@@ -62,4 +64,4 @@ Cria uma nova branch com base na branch atual e vai para a nova.
 ---------------
 ## Contatos 
 email: kaykejefferson908@gmail.com
-telefone: 1234-5679
+telefone: 11 1234-4645
